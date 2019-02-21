@@ -30,18 +30,19 @@ void Edge::setWeight(const size_t &weight)
     mWeight = weight;
 }
 
-void Edge::initialization(size_t FirstPoint, size_t SecondPoint, size_t Weight)
+void Edge::initialization(size_t firstPoint, size_t secondPoint, size_t weight)
 {
-    mFirstPoint = FirstPoint;
-    mSecondPoint = SecondPoint;
-    mWeight = Weight;
+    mFirstPoint = firstPoint;
+    mSecondPoint = secondPoint;
+    mWeight = weight;
 }
 
 Edge::Edge()
 {
-
+    initialization(0,0,0);
 }
 
-Edge::Edge(size_t FirstPoint, size_t SecondPoint, size_t Weight)
-    : mFirstPoint(FirstPoint),mSecondPoint(SecondPoint), mWeight(weight())
-{}
+Edge::Edge(size_t firstPoint, size_t secondPoint, size_t weight)
+{
+    initialization(firstPoint, secondPoint, weight);
+}

@@ -18,8 +18,7 @@ public:
     size_t weight() const;
     void setWeight(const size_t &weight);
 
-    void initialization();
-    void initialization(size_t FirstPoint, size_t SecondPoint, size_t Weight);
+    void initialization(size_t firstPoint, size_t secondPoint, size_t wight);
 };
 
 #endif // EDGE_H
