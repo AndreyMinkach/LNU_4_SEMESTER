@@ -37,6 +37,18 @@ void Edge::initialization(size_t firstPoint, size_t secondPoint, size_t weight)
     mWeight = weight;
 }
 
+void Edge::setAllValues(size_t firstPoint, size_t secondPoint, size_t weight)
+{
+    initialization(firstPoint,secondPoint,weight);
+}
+
+void Edge::showInfo()
+{
+    std::cout<<"First point = "<<mFirstPoint<<std::endl
+             <<"Second poit = "<<mSecondPoint<<std::endl
+             <<"Weight = "<<mWeight<<std::endl<<std::endl;
+}
+
 Edge::Edge()
 {
     initialization(0,0,0);
