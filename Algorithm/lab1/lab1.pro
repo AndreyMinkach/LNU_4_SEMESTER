@@ -5,7 +5,9 @@ CONFIG -= qt
 
 SOURCES += \
         main.cpp \
-    edge.cpp
+    edge.cpp \
+    graph.cpp
 
 HEADERS += \
-    edge.h
+    edge.h \
+    graph.h
