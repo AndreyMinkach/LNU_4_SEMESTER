@@ -46,7 +46,12 @@ void Edge::showInfo()
 {
     std::cout<<"First point = "<<mFirstPoint<<std::endl
              <<"Second poit = "<<mSecondPoint<<std::endl
-             <<"Weight = "<<mWeight<<std::endl<<std::endl;
+            <<"Weight = "<<mWeight<<std::endl<<std::endl;
+}
+
+std::string Edge::tostring()
+{
+
 }
 
 Edge::Edge()

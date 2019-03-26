@@ -6,8 +6,12 @@ CONFIG -= qt
 SOURCES += \
         main.cpp \
     edge.cpp \
-    graph.cpp
+    graph.cpp \
+    smallgraph.cpp \
+    functions.cpp
 
 HEADERS += \
     edge.h \
-    graph.h
+    graph.h \
+    smallgraph.h \
+    functions.h

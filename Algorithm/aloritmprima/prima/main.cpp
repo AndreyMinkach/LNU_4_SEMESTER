@@ -24,7 +24,8 @@ int main()
 
     while(ne < n)
     {
-        mi = 999;
+        mi = 999
+                ;
         for(int i = 1; i <= n; i++)
         for(int j = 1; j <= n; j++)
         if(cost[i][j] < mi)

@@ -21,6 +21,8 @@ public:
     void setAllValues(size_t firstPoint, size_t secondPoint, size_t weight);
     void showInfo();
 
+    std::string tostring();
+
 private:
     size_t mFirstPoint;
     size_t mSecondPoint;
