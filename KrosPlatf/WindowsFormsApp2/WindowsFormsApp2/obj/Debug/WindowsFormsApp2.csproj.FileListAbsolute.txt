@@ -8,3 +8,13 @@ c:\users\dron\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFo
 c:\users\dron\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
 c:\users\dron\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
 c:\users\dron\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+E:\Git\LNU_4_SEMESTER\KrosPlatf\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+E:\Git\LNU_4_SEMESTER\KrosPlatf\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+E:\Git\LNU_4_SEMESTER\KrosPlatf\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+E:\Git\LNU_4_SEMESTER\KrosPlatf\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+E:\Git\LNU_4_SEMESTER\KrosPlatf\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+E:\Git\LNU_4_SEMESTER\KrosPlatf\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\Git\LNU_4_SEMESTER\KrosPlatf\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+E:\Git\LNU_4_SEMESTER\KrosPlatf\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+E:\Git\LNU_4_SEMESTER\KrosPlatf\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+E:\Git\LNU_4_SEMESTER\KrosPlatf\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb

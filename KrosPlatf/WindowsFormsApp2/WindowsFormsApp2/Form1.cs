@@ -186,7 +186,8 @@ namespace WindowsFormsApp2
                                     textBox5.Text = Convert.ToString(MDP(a, b, Eps, ref k, ref L));
                                     textBox6.Text = Convert.ToString(L);
                                     label10.Text = "К-ть поділів =";
-                                }
+                                    label11.Text = Convert.ToString(f(MDP(a, b, Eps, ref k, ref L), ref k));
+                    }
                                 break;
 
                             case 1: // Виклик методу Ньютона MN
@@ -199,8 +200,9 @@ namespace WindowsFormsApp2
                                     Kmax = Convert.ToInt32(textBox4.Text);
                                     textBox5.Text = Convert.ToString(MN(a, b, Eps, ref k, Kmax, ref L)); textBox6.Text = Convert.ToString(L);
                                     label10.Text = "К-ть ітерац.=";
-                                }
-                                break;
+                                    label11.Text = Convert.ToString(f(MN(a, b, Eps, ref k, Kmax, ref L), ref k));
+                    }
+                    break;
                         }
                     }
             
@@ -231,6 +233,11 @@ namespace WindowsFormsApp2
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label12_Click(object sender, EventArgs e)
         {
 
         }

@@ -1,0 +1,10 @@
+C:\Users\DrOn\source\repos\5lab\5lab\obj\Debug\5lab.csprojAssemblyReference.cache
+C:\Users\DrOn\source\repos\5lab\5lab\obj\Debug\XIO_Demo_Indexer.Form1.resources
+C:\Users\DrOn\source\repos\5lab\5lab\obj\Debug\_5lab.Properties.Resources.resources
+C:\Users\DrOn\source\repos\5lab\5lab\obj\Debug\5lab.csproj.GenerateResource.cache
+C:\Users\DrOn\source\repos\5lab\5lab\obj\Debug\5lab.csproj.CoreCompileInputs.cache
+C:\Users\DrOn\source\repos\5lab\5lab\bin\Debug\5lab.exe.config
+C:\Users\DrOn\source\repos\5lab\5lab\bin\Debug\5lab.exe
+C:\Users\DrOn\source\repos\5lab\5lab\bin\Debug\5lab.pdb
+C:\Users\DrOn\source\repos\5lab\5lab\obj\Debug\5lab.exe
+C:\Users\DrOn\source\repos\5lab\5lab\obj\Debug\5lab.pdb
