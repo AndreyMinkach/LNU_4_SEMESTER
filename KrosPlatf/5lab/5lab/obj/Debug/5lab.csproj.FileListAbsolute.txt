@@ -8,3 +8,14 @@ C:\Users\DrOn\source\repos\5lab\5lab\bin\Debug\5lab.exe
 C:\Users\DrOn\source\repos\5lab\5lab\bin\Debug\5lab.pdb
 C:\Users\DrOn\source\repos\5lab\5lab\obj\Debug\5lab.exe
 C:\Users\DrOn\source\repos\5lab\5lab\obj\Debug\5lab.pdb
+E:\Git\LNU_4_SEMESTER\KrosPlatf\5lab\5lab\bin\Debug\5lab.exe.config
+E:\Git\LNU_4_SEMESTER\KrosPlatf\5lab\5lab\bin\Debug\5lab.exe
+E:\Git\LNU_4_SEMESTER\KrosPlatf\5lab\5lab\bin\Debug\5lab.pdb
+E:\Git\LNU_4_SEMESTER\KrosPlatf\5lab\5lab\obj\Debug\5lab.csprojAssemblyReference.cache
+E:\Git\LNU_4_SEMESTER\KrosPlatf\5lab\5lab\obj\Debug\XIO_Demo_Indexer.Form1.resources
+E:\Git\LNU_4_SEMESTER\KrosPlatf\5lab\5lab\obj\Debug\_5lab.Properties.Resources.resources
+E:\Git\LNU_4_SEMESTER\KrosPlatf\5lab\5lab\obj\Debug\5lab.csproj.GenerateResource.cache
+E:\Git\LNU_4_SEMESTER\KrosPlatf\5lab\5lab\obj\Debug\5lab.csproj.CoreCompileInputs.cache
+E:\Git\LNU_4_SEMESTER\KrosPlatf\5lab\5lab\obj\Debug\5lab.exe
+E:\Git\LNU_4_SEMESTER\KrosPlatf\5lab\5lab\obj\Debug\5lab.pdb
+E:\Git\LNU_4_SEMESTER\KrosPlatf\5lab\5lab\obj\Debug\lab5.Form1.resources
